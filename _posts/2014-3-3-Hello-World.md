@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Searching wikipedia from command line using python '
+title: 'Searching wikipedia from command line '
 published: true
 ---
 Below code snippet perform wikipedia search from command line 
@@ -27,4 +27,3 @@ else :
 {% endhighlight %}
 
 Github link : https://github.com/bkarthik24/Python-utilities/blob/master/commandline_search.py
-
