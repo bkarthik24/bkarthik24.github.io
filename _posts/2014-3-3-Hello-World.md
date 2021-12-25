@@ -1,8 +1,10 @@
 ---
 layout: post
-title: 'My first post using Jekyll '
+title: 'Searching wikipedia from command line using python '
 published: true
 ---
+Below code snippet perform wikipedia search from command line 
+
 {% highlight python %}
 import wikipedia 
 import wikipediaapi                 # Wrapper used for getting Page URL 
@@ -23,3 +25,6 @@ if 1<=int(select)<=(len(title_url)):
 else :
     print("Number out of range")
 {% endhighlight %}
+
+Github link : https://github.com/bkarthik24/Python-utilities/blob/master/commandline_search.py
+
