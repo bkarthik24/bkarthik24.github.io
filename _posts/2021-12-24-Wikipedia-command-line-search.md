@@ -24,4 +24,4 @@ else :
     print("Number out of range")
 {% endhighlight %}
 
-Github link : (https://github.com/bkarthik24/Python-utilities/blob/master/commandline_search.py)
+Link : (https://github.com/bkarthik24/Python-utilities/blob/master/commandline_search.py)
