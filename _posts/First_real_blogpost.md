@@ -1,6 +1,6 @@
 ---
 published: true
 ---
-## A New Post
+## This is a latest post 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+First original blog using Jkelly . 
