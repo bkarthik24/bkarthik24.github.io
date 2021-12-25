@@ -23,5 +23,3 @@ if 1<=int(select)<=(len(title_url)):
 else :
     print("Number out of range")
 {% endhighlight %}
-
-Link : (https://github.com/bkarthik24/Python-utilities/blob/master/commandline_search.py)
