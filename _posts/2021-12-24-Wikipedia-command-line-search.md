@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Below code snippet perform wikipedia search from command line 
 
